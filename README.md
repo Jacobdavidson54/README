@@ -16,5 +16,5 @@ It also includes:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/edge-calculator.git
+   git clone https://github.com/Jacobdavidson54/edge-calculator.git
    cd edge-calculator
