@@ -1,4 +1,6 @@
 streamlit==1.50.0
 scholarly==1.7.11
-duckduckgo-search==6.2.13   # or latest available
+duckduckgo-search==6.2.13
 rich>=14.2.0
+requests>=2.31.0
+beautifulsoup4>=4.12.2
